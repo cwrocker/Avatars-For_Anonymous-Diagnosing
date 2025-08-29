@@ -1,0 +1,1 @@
+Within the 'Main' file is the code that is used to run the machine learning models tested and get the results. It also is used to run 'fbx_to_npy.Py' which extracts only the necessary information from the avatar files for the machine learners. The codee to convert avatars to videos is ran indepenently of the Main.ipyng file
